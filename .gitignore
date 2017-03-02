@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 image_classification/__pycache__
+image_classification/cifar-10-batches-py
 venv/**/*
+*.tar.gz
+preprocess_*.p
+
